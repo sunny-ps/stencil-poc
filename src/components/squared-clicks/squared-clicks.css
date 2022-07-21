@@ -1,0 +1,8 @@
+:host {
+  display: block;
+}
+
+.wrapper {
+  padding: 0.3rem;
+  border: 2px solid black;
+}

@@ -1,0 +1,25 @@
+:host {
+  display: block;
+}
+
+ul {
+  background: #fffbb4;
+  list-style: none;
+  padding: 2.5rem;
+}
+
+li {
+  margin: 1rem 0;
+}
+
+button {
+  margin-left: 1.1rem;
+  background: crimson;
+  border: none;
+  color: white;
+}
+
+.clicks {
+  padding: 1.3rem 2rem;
+  background: cornflowerblue;
+}
